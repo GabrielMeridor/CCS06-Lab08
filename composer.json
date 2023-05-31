@@ -1,0 +1,17 @@
+{
+    "name": "KleinMercado/ccs06-Lab-Activty-8",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Miaka Klein A. Mercado",
+            "email": "mercado.miakaklein@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
